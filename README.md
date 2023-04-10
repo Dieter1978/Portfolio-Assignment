@@ -6,7 +6,8 @@
 
 # Description of your portfolio website, including,
 
-##P urpose
+## Purpose
+
 This site is intended to show case my abilities to prospective employers in the information technology industry.
 
 ## Functionality / features
