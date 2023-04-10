@@ -1,8 +1,8 @@
 # Portfolio-Assignment
 
-# [A link (URL) to your published portfolio website](https://zippy-marzipan-4f450b.netlify.app/index.html)
+### [A link (URL) to your published portfolio website](https://zippy-marzipan-4f450b.netlify.app/index.html)
 
-# [A link to your GitHub repo] (https://github.com/Dieter1978/Portfolio-Assignment/)
+### [A link to your GitHub repo](https://github.com/Dieter1978/Portfolio-Assignment/)
 
 # Description of your portfolio website, including,
 
