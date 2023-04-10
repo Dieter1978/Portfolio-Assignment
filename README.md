@@ -20,7 +20,7 @@ Home page | Blog | Contact | Professional
 
 ## Screenshots
 
-![mobile-screenshots] (Images2/mobile.png)
+![mobile-screenshots] (./Images2/mobile.png)
 
 ## Target audience
 
