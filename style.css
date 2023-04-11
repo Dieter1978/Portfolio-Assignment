@@ -63,7 +63,7 @@ nav a {
     border-radius:50%;
 }
 
-/* main content */
+/* main component */
 main{
     display:flex;
     flex-direction:column;
@@ -84,6 +84,13 @@ main article {
     align-items:center;
     padding: 1rem 2rem;
 }   
+
+main section {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 1rem 2rem;
+} 
 
 main article img {
     width: 75%;
@@ -153,8 +160,7 @@ footer p {
     padding:1rem 0;
 }
 #social-links p{
-    font-family: 'Bree Serif', 'Times New Roman', Times, serif;
-   
+    font-family: 'Titillium Web', Arial, Helvetica, sans-serif;
     font-size:1.1rem;
     margin-bottom:1rem;
 }
@@ -164,4 +170,91 @@ footer p {
     flex-direction:column;
     align-items:center;
     justify-content: space-around;
+}
+
+/* *** TABLET STYLES *** */
+@media only screen and (min-width:550px){
+    header {
+        margin-top: 0.5 rem;
+        flex-direction: row;
+        align-items:center;
+        justify-content: space-around;
+    }
+
+    #brand {
+        margin-left: 1.5 rem;
+        width: 25%;
+       
+        margin-bottom: 0;
+        /* margin-bottom:1rem; */
+    }
+
+
+
+}
+
+@media only screen and (min-width:800px){
+
+    #hero img{
+   
+        width: 40%;
+        
+    }   
+
+}
+
+@media only screen and (min-width:750px){
+    main{
+        flex-direction:row;
+        justify-content: center;
+        align-items:center;
+        flex-wrap: wrap;
+        margin-bottom: 0.5 rem;
+        
+    }
+    main h2 {
+        width: 100%;
+        text-align:center;
+       
+    }
+    main article{
+        width: 33.33%
+    }
+
+    main .post {
+        width:50%;
+    }
+
+
+
+}
+
+/* *** DESKTOP STYLES *** */
+@media only screen and (min-width:1000px){
+    header {
+        padding: 0.5rem 0 1 rem;
+        justify-content: space-between;
+    }
+    
+    #brand {
+        margin-left: 1.5rem;
+        /* margin-top: 1.5rem; */
+        width: 7%;
+    }
+
+    header nav{
+        width: auto;
+        
+    }
+
+    header nav a {
+        margin: 0 1rem;
+        margin-right: 1.5 rem;
+    }
+
+    #hero img{
+   
+        width: 20%;
+        border-radius:50%;
+    }
 }
