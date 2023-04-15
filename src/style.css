@@ -34,8 +34,17 @@ nav a {
     font-family: 'Titillium Web', Arial, Helvetica, sans-serif;
     text-decoration:none;
     font-size: 1.25 rem;
-    color: #5b486f;
+    color: #4b3f57;
 }
+
+nav a:hover {
+    text-decoration: none;
+    color: #bb99e0;
+}
+
+
+
+
 
 /* Hero Component */
 #hero {
@@ -92,6 +101,11 @@ main section {
     padding: 1rem 2rem;
 } 
 
+main section img {
+    width:15%;
+
+}
+
 main article img {
     width: 75%;
     border-radius: 50%;
@@ -145,7 +159,7 @@ footer p {
 }
 
 .post p {
-    font-size: 1.1rem;
+    font-size: 1rem; 
     margin-bottom: 1.5rem;
     margin-top: 1.5rem;
 

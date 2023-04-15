@@ -1,5 +1,7 @@
 # Portfolio-Assignment
 
+### [link to You Tube Presentation](https://youtu.be/NcwfeJJPnlY)
+
 ### [link to published portfolio website](https://zippy-marzipan-4f450b.netlify.app/index.html)
 
 ### [A link to GitHub repo](https://github.com/Dieter1978/Portfolio-Assignment/)
@@ -20,7 +22,9 @@ Home page | Blog | Contact | Professional
 
 ## Screenshots
 
-![mobile-screenshots](./Images2/mobile.png)
+![mobile-screenshots](./docs/mobile.png)
+![tablet-screenshots](./docs/tablet.png)
+![desktop-screenshots](./docs/desktop.png)
 
 ## Target audience
 
