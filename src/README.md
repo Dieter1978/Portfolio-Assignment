@@ -22,9 +22,9 @@ Home page | Blog | Contact | Professional
 
 ## Screenshots
 
-![mobile-screenshots](./docs/mobile.png)
-![tablet-screenshots](./docs/tablet.png)
-![desktop-screenshots](./docs/desktop.png)
+![mobile-screenshots](../docs/mobile.png)
+![tablet-screenshots](../docs/Tablet2.png)
+![desktop-screenshots](../docs/desktop.png)
 
 ## Target audience
 
