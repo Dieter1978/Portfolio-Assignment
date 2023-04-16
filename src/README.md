@@ -31,3 +31,5 @@ Home page | Blog | Contact | Professional
 The target audience is an employer looking to engage a dev and/or IT professional.
 
 ## Tech stack (e.g. html, css, deployment platform, etc)
+
+This is a basic project involving HTML 5 and CSS to design the front end of the website. It is deployed in the netifly app. www.netifly.app
