@@ -2,7 +2,7 @@
 
 ### [link to You Tube Presentation](https://youtu.be/NcwfeJJPnlY)
 
-### [link to published portfolio website](https://zippy-marzipan-4f450b.netlify.app/index.html)
+### [link to published portfolio website](https://warm-chaja-5418bb.netlify.app)
 
 ### [A link to GitHub repo](https://github.com/Dieter1978/Portfolio-Assignment/)
 
